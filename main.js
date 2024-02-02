@@ -16,7 +16,12 @@
       npm run preview
 
 */
+// To deploy the sketch online, you need to do the followings:
+  // 1.run 'npm install' in the terminal , to install the node modules
+  // 2.run 'npm run build'
+  // 3.change the src in 'index.html', refer to index.html for instruction
 
+  
 //import three.js
 import * as THREE from 'three';
 //add Orbit controls
